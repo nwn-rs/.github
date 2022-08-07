@@ -27,12 +27,12 @@
 
 | | Summary | | |
 | --- | --- | --- | ---
-| ![Crates.io](https://img.shields.io/crates/v/nwn-rs-runtime?label=runtime) | nwn.rs nwserver runtime ("nwnxee") | ![docs.rs](https://img.shields.io/docsrs/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) |
-| ![Crates.io](https://img.shields.io/crates/v/nwn-rs-tool?label=tool) | nwn.rs command line tool | ![docs.rs](https://img.shields.io/docsrs/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) |
-| ![Crates.io](https://img.shields.io/crates/v/nwn-rs-codegen?label=codegen) | nwn.rs code generation | ![docs.rs](https://img.shields.io/docsrs/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) |
-| ![Crates.io](https://img.shields.io/crates/v/nwn-rs-config?label=config) | nwn.rs config | ![docs.rs](https://img.shields.io/docsrs/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) |
-| ![Crates.io](https://img.shields.io/crates/v/nwn-rs-masterlist?label=masterlist) | https://nwn.beamdog.net/ wrapper | ![docs.rs](https://img.shields.io/docsrs/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) |
-| ![Crates.io](https://img.shields.io/crates/v/nwn-rs-types?label=types) | nwn.rs types | ![docs.rs](https://img.shields.io/docsrs/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) |
+| ![Crates.io](https://img.shields.io/crates/v/nwn-rs-runtime?label=runtime) | nwn.rs nwserver runtime ("nwnxee") | ![docs.rs](https://img.shields.io/docsrs/nwn-rs-runtime) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) |
+| ![Crates.io](https://img.shields.io/crates/v/nwn-rs-tool?label=tool) | nwn.rs command line tool | ![docs.rs](https://img.shields.io/docsrs/nwn-rs-tool) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) |
+| ![Crates.io](https://img.shields.io/crates/v/nwn-rs-codegen?label=codegen) | nwn.rs code generation | ![docs.rs](https://img.shields.io/docsrs/nwn-rs-codegen) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) |
+| ![Crates.io](https://img.shields.io/crates/v/nwn-rs-config?label=config) | nwn.rs config | ![docs.rs](https://img.shields.io/docsrs/nwn-rs-config) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) |
+| ![Crates.io](https://img.shields.io/crates/v/nwn-rs-masterlist?label=masterlist) | https://nwn.beamdog.net/ wrapper | ![docs.rs](https://img.shields.io/docsrs/nwn-rs-masterlist) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) |
+| ![Crates.io](https://img.shields.io/crates/v/nwn-rs-types?label=types) | nwn.rs types | ![docs.rs](https://img.shields.io/docsrs/nwn-rs-types) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) |
 
 | Docker Images | |
 | --- | --- |
