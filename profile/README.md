@@ -12,10 +12,6 @@
   </a>
   <!-- Version -->
   <img src="https://img.shields.io/badge/nwnee:version-8193.34-58a3bd?style=flat-square" alt="nwnee-version">
-  <!-- Platform Support -->
-  <a href="https://github.com/nwnxee/unified/issues/1">
-    <img src="https://img.shields.io/badge/platform-linux--x86-orange?style=flat-square" alt="platform" />
-  </a>
   <br />
 </div>
 
@@ -29,18 +25,19 @@
  </strong>
 </div>
 
-| Docs | Version | Build | Docker | Summary |
-| --- | --- | --- | --- | --- |
-| ![docs.rs](https://img.shields.io/docsrs/rand?label=runtime) | ![Crates.io](https://img.shields.io/crates/v/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) | [![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/nwnrs/runtime?color=orange&sort=date)](https://hub.docker.com/repository/docker/nwnrs/runtime) | cdylib that attaches to nwserver runtime ("nwnxee") |
-| ![docs.rs](https://img.shields.io/docsrs/rand?label=tool) | ![Crates.io](https://img.shields.io/crates/v/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) | [![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/nwnrs/tool?color=orange&sort=date)](https://hub.docker.com/repository/docker/nwnrs/tool) | Cli application for doing nwn.rs things |
+| | Summary | | |
+| --- | --- | --- | ---
+| ![Crates.io](https://img.shields.io/crates/v/rand?label=runtime) | nwn.rs nwserver runtime ("nwnxee") | ![docs.rs](https://img.shields.io/docsrs/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) |
+| ![Crates.io](https://img.shields.io/crates/v/rand?label=tool) | nwn.rs command line tool | ![docs.rs](https://img.shields.io/docsrs/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) |
+| ![Crates.io](https://img.shields.io/crates/v/rand?label=codegen) | nwn.rs code generation | ![docs.rs](https://img.shields.io/docsrs/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) |
+| ![Crates.io](https://img.shields.io/crates/v/rand?label=config) | nwn.rs config | ![docs.rs](https://img.shields.io/docsrs/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) |
+| ![Crates.io](https://img.shields.io/crates/v/rand?label=masterlist) | https://nwn.beamdog.net/ wrapper | ![docs.rs](https://img.shields.io/docsrs/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) |
+| ![Crates.io](https://img.shields.io/crates/v/rand?label=types) | nwn.rs types | ![docs.rs](https://img.shields.io/docsrs/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) |
 
-
-| Lib | Version | Build | Summary |
-| --- | --- | --- | --- |
-| ![docs.rs](https://img.shields.io/docsrs/rand?label=codegen) | ![Crates.io](https://img.shields.io/crates/v/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) | code generation in nwn.rs |
-| ![docs.rs](https://img.shields.io/docsrs/rand?label=config) | ![Crates.io](https://img.shields.io/crates/v/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) | nwn.rs.toml file |
-| ![docs.rs](https://img.shields.io/docsrs/rand?label=masterlist) | ![Crates.io](https://img.shields.io/crates/v/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) | https://nwn.beamdog.net/ api wrapper |
-| ![docs.rs](https://img.shields.io/docsrs/rand?label=types) | ![Crates.io](https://img.shields.io/crates/v/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) | nwn files and types |
+| Docker Images | |
+| --- | --- |
+| ![Docker Image Version (latest semver)](https://img.shields.io/docker/v/nwnrs/runtime?label=runtime&sort=semver) |[![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/nwnrs/tool?color=orange&sort=date)](https://hub.docker.com/repository/docker/nwnrs/tool) |
+| ![Docker Image Version (latest semver)](https://img.shields.io/docker/v/nwnrs/tool?label=tool&sort=semver) |[![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/nwnrs/runtime?color=orange&sort=date)](https://hub.docker.com/repository/docker/nwnrs/runtime) |
 
 ## Acknowledgments
 * [NWNX:EE](https://nwnxee.github.io/unified/)
