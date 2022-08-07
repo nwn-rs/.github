@@ -31,16 +31,16 @@
 
 | Docs | Version | Build | Docker | Summary |
 | --- | --- | --- | --- | --- |
-| ![docs.rs](https://img.shields.io/docsrs/rand) | ![Crates.io](https://img.shields.io/crates/v/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) | [![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/nwnrs/runtime?color=orange&sort=date)](https://hub.docker.com/repository/docker/nwnrs/runtime) | cdylib that attaches to nwserver runtime ("nwnxee") |
-| ![docs.rs](https://img.shields.io/docsrs/rand) | ![Crates.io](https://img.shields.io/crates/v/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) | [![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/nwnrs/tool?color=orange&sort=date)](https://hub.docker.com/repository/docker/nwnrs/tool) | Cli application for doing nwn.rs things |
+| ![docs.rs](https://img.shields.io/docsrs/rand?label=runtime) | ![Crates.io](https://img.shields.io/crates/v/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) | [![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/nwnrs/runtime?color=orange&sort=date)](https://hub.docker.com/repository/docker/nwnrs/runtime) | cdylib that attaches to nwserver runtime ("nwnxee") |
+| ![docs.rs](https://img.shields.io/docsrs/rand?label=tool) | ![Crates.io](https://img.shields.io/crates/v/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) | [![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/nwnrs/tool?color=orange&sort=date)](https://hub.docker.com/repository/docker/nwnrs/tool) | Cli application for doing nwn.rs things |
 
 
 | Lib | Version | Build | Summary |
 | --- | --- | --- | --- |
-| ![docs.rs](https://img.shields.io/docsrs/rand) | ![Crates.io](https://img.shields.io/crates/v/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) | code generation in nwn.rs |
-| ![docs.rs](https://img.shields.io/docsrs/rand) | ![Crates.io](https://img.shields.io/crates/v/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) | nwn.rs.toml file |
-| ![docs.rs](https://img.shields.io/docsrs/rand) | ![Crates.io](https://img.shields.io/crates/v/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) | https://nwn.beamdog.net/ api wrapper |
-| ![docs.rs](https://img.shields.io/docsrs/rand) | ![Crates.io](https://img.shields.io/crates/v/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) | nwn files and types |
+| ![docs.rs](https://img.shields.io/docsrs/rand?label=codegen) | ![Crates.io](https://img.shields.io/crates/v/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) | code generation in nwn.rs |
+| ![docs.rs](https://img.shields.io/docsrs/rand?label=config) | ![Crates.io](https://img.shields.io/crates/v/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) | nwn.rs.toml file |
+| ![docs.rs](https://img.shields.io/docsrs/rand?label=masterlist) | ![Crates.io](https://img.shields.io/crates/v/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) | https://nwn.beamdog.net/ api wrapper |
+| ![docs.rs](https://img.shields.io/docsrs/rand?label=types) | ![Crates.io](https://img.shields.io/crates/v/rand) | ![Build Status](https://img.shields.io/github/workflow/status/urothis/nwn-rs/idk-the-name) | nwn files and types |
 
 ## Acknowledgments
 * [NWNX:EE](https://nwnxee.github.io/unified/)
