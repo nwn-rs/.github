@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/logo/icon.svg" width="150"/>
+  <img src="https://raw.githubusercontent.com/nwn-rs/.github/main/profile/assets/logo/icon.svg" width="150"/>
 
   nwn.rs
 </h1>
