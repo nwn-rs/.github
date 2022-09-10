@@ -36,8 +36,8 @@
 
 | Docker Images | |
 | --- | --- |
-| ![Docker Image Version (latest semver)](https://img.shields.io/docker/v/nwnrs/runtime?label=runtime&sort=semver) |[![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/nwnrs/tool?color=orange&sort=date)](https://hub.docker.com/repository/docker/nwnrs/tool) |
-| ![Docker Image Version (latest semver)](https://img.shields.io/docker/v/nwnrs/tool?label=tool&sort=semver) |[![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/nwnrs/runtime?color=orange&sort=date)](https://hub.docker.com/repository/docker/nwnrs/runtime) |
+| ![Docker Image Version (latest semver)](https://img.shields.io/docker/v/nwnrs/runtime?label=runtime&sort=semver) |[![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/nwnrs/runtime?color=orange&sort=date)](https://hub.docker.com/repository/docker/nwnrs/runtime) |
+| ![Docker Image Version (latest semver)](https://img.shields.io/docker/v/nwnrs/tool?label=tool&sort=semver) |[![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/nwnrs/tool?color=orange&sort=date)](https://hub.docker.com/repository/docker/nwnrs/tool) |
 
 ## Acknowledgments
 * [NWNX:EE](https://nwnxee.github.io/unified/)
