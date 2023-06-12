@@ -11,7 +11,7 @@
     alt="chat" />
   </a>
   <!-- Version -->
-  <img src="https://img.shields.io/badge/nwnee:version-8193.34-58a3bd?style=flat-square" alt="nwnee-version">
+  <img src="https://img.shields.io/badge/nwnee:version-8193.35-58a3bd?style=flat-square" alt="nwnee-version">
   <br />
 </div>
 
